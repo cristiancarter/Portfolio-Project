@@ -180,11 +180,9 @@ p {
   height: 273px;
   max-width: 100%;
   border: none;
-  border-radius: 20px;
+  border-radius: 0 500px 500px 500px;
 }
-.heroimg:hover {
-  transform: rotateX(10deg) rotateY(10deg) scale(1.1);
-}
+
 .ww {
   flex-direction: column;
   justify-content: center;
