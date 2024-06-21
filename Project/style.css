@@ -274,6 +274,7 @@ h3 {
   display: block;
   justify-content: center;
   background-color: #202020;
+  height: 100%;
 }
 .footer,
 .wwmcard,
